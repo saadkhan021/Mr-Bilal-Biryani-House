@@ -1,0 +1,10 @@
+{
+  "description": "Enables customers to easily customize and order biryani, pulao, and other dishes with dynamic pricing and a seamless mobile-friendly cart experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
